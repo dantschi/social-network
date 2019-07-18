@@ -1,5 +1,5 @@
 ## social-network
-This small project is a social network with profile update and profile picture editing profile, requesting/accepting friendships and message wall.
+This project is a social network with profile update and profile picture upload or change, requesting/accepting friendships and message wall.
 
 Used technologies:
 
